@@ -1,0 +1,2 @@
+# HMCA-Contour
+HMCA-Contour is an integrated software that consists of three functions: (1) Data processing; (2) Plotting; (3) Template setting. Its aim is to eliminate routines and tedious manual operations (i.e. pollution indices calculation, batch plotting contour maps for multi elements, and set template parameters) for mapping soil heavy metal contamination and spatial distributions of heavy metals. In order to run this program successfully, the Microsoft Excel 2007 or later and Surfer 13.0 are required to be installed. 
